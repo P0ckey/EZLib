@@ -1,5 +1,8 @@
 # 📕 EZLib
 
+> [!WARNING]
+> EZLib is not fully tested, there will be bugs and unprecedented issues, always keep a backup of data to prevent data loss.
+
 ## 😀 What is EZLib?
 EZLib is a free an open source library application that I have worked on as a passion project, it would be greatly appreciated if any new features could be contributed and please report any bugs you face in the process of using it.
 
